@@ -4,7 +4,7 @@
   
 - **🌱 I’m currently learning**:  
   - The **RPG Tutorial** from Gorka Games (in progress).
-  - Expanding my skills in game development and 3D modeling.
+  - Python challenges and expanding my skills in game development and 3D modeling.
 
 - **✅ Completed projects**:  
   - **Advent of Code** challenges in Python.
