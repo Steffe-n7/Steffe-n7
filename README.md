@@ -6,11 +6,11 @@
   - The **RPG Tutorial** from Gorka Games (currently focused on this).
 
 - **✅ Completed projects**:  
-  - **Advent of Code** challenges in Python.
+  - Some **Advent of Code** challenges in Python.
   - Interface programming for analyzing statistical data from a radio system using Dataframes in Python (almost complete, just missing logging).
   - Several **Arduino projects**, including an automated watering system connected to a Node-Red smart home server on a Raspberry Pi.
   - **Ambilight project** that simulates Philips Ambilight, with real-time color changes based on the TV picture.
-  - The **Blender Donut Tutorial**.
+  - The **Blender Donut Tutorial** from Blenderguru.
 
 - **💞️ I’m looking to collaborate on**: I currently code as a hobby in my free time but am open to interesting collaboration ideas!
 
