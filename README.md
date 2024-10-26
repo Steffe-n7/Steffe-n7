@@ -3,7 +3,7 @@
 - **👀 I’m interested in**: Python, Dataframes, Arduino, Node-Red, Raspberry Pi, Blender, Unreal Engine, Game Development, Prototyping, 3D Modeling, Gaming, Electronics, Microelectronics, Low-Level Programming, and Machine Learning.
   
 - **🌱 I’m currently learning**:  
-  - The **RPG Tutorial** from Gorka Games (currently focused on this).
+  - The **RPG Tutorial** from Gorka Games with some own ideas(currently focused on this).
 
 - **✅ Completed projects**:  
   - Some **Advent of Code** challenges in Python.
